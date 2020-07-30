@@ -5,9 +5,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SiYUan-Lee&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/SiYUan-Lee/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiYUan-Lee&layout=compact" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiYUan-Lee&layout=compact" />
 </a>
-### Hi there 👋
+ Hi there 👋
 welcome to my page!!
 <!--
 **SiYuan-Lee/SiYuan-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
