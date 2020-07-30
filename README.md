@@ -1,3 +1,4 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SiYUan-Lee&show_icons=true&theme=radical)
 ### Hi there 👋
 ok
 <!--
